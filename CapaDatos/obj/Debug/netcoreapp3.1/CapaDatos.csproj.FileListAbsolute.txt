@@ -1,0 +1,15 @@
+C:\Users\Albania\source\repos\InaApp1\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.deps.json
+C:\Users\Albania\source\repos\InaApp1\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\Albania\source\repos\InaApp1\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\Users\Albania\source\repos\InaApp1\CapaDatos\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Albania\source\repos\InaApp1\CapaDatos\bin\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\Albania\source\repos\InaApp1\CapaDatos\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Albania\source\repos\InaApp1\CapaDatos\bin\Debug\netcoreapp3.1\Utilidades.pdb
+C:\Users\Albania\source\repos\InaApp1\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Albania\source\repos\InaApp1\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Albania\source\repos\InaApp1\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Albania\source\repos\InaApp1\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfo.cs
+C:\Users\Albania\source\repos\InaApp1\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Albania\source\repos\InaApp1\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CopyComplete
+C:\Users\Albania\source\repos\InaApp1\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\Albania\source\repos\InaApp1\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.pdb

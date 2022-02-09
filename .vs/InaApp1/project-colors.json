@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "87e63540-8e86-45d8-91db-62c83851c46a": {
+      "ProjectGuid": "87e63540-8e86-45d8-91db-62c83851c46a",
+      "DisplayName": "InaApp1",
+      "ColorIndex": 0
+    },
+    "392ff11f-c42a-4a93-923d-1dd2fc5daf07": {
+      "ProjectGuid": "392ff11f-c42a-4a93-923d-1dd2fc5daf07",
+      "DisplayName": "Services",
+      "ColorIndex": 1
+    },
+    "fd23f4c9-ecb9-4b97-9c90-0cbec06675b3": {
+      "ProjectGuid": "fd23f4c9-ecb9-4b97-9c90-0cbec06675b3",
+      "DisplayName": "CapaDatos",
+      "ColorIndex": 2
+    },
+    "2bc84216-bb76-490e-8223-211211a8ba86": {
+      "ProjectGuid": "2bc84216-bb76-490e-8223-211211a8ba86",
+      "DisplayName": "Entities",
+      "ColorIndex": 3
+    },
+    "c4d28d84-a66e-45f6-83f6-695d9e59d610": {
+      "ProjectGuid": "c4d28d84-a66e-45f6-83f6-695d9e59d610",
+      "DisplayName": "Utilidades",
+      "ColorIndex": 4
+    },
+    "13caa8e5-a853-4a20-96d2-0247ce009411": {
+      "ProjectGuid": "13caa8e5-a853-4a20-96d2-0247ce009411",
+      "DisplayName": "Data",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CapaDatos/1.0.0": {
+        "dependencies": {
+          "Entities": "1.0.0",
+          "Utilidades": "1.0.0"
+        },
+        "runtime": {
+          "CapaDatos.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "runtime": {
+          "Entities.dll": {}
+        }
+      },
+      "Utilidades/1.0.0": {
+        "runtime": {
+          "Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CapaDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

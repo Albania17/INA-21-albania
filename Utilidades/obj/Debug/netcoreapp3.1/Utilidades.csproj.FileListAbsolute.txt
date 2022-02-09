@@ -1,0 +1,10 @@
+C:\Users\Albania\source\repos\InaApp1\Utilidades\bin\Debug\netcoreapp3.1\Utilidades.deps.json
+C:\Users\Albania\source\repos\InaApp1\Utilidades\bin\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\Albania\source\repos\InaApp1\Utilidades\bin\Debug\netcoreapp3.1\Utilidades.pdb
+C:\Users\Albania\source\repos\InaApp1\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.csproj.AssemblyReference.cache
+C:\Users\Albania\source\repos\InaApp1\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Albania\source\repos\InaApp1\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.AssemblyInfoInputs.cache
+C:\Users\Albania\source\repos\InaApp1\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.AssemblyInfo.cs
+C:\Users\Albania\source\repos\InaApp1\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Albania\source\repos\InaApp1\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\Albania\source\repos\InaApp1\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.pdb
